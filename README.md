@@ -14,7 +14,7 @@ Simple Startpage
 Version
 ----
 
-0.1.4
+0.2.5
 
 
 
@@ -78,4 +78,3 @@ SOFTWARE.
 
 
 **Free Software, Hell Yeah!**
-

@@ -2,7 +2,7 @@
 html,
 body {
     background-image: url(../background.jpg);
-
+    background-size: 100%;
     background-repeat:no-repeat;
     background-position:center top;
     color: #272726;
