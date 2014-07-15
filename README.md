@@ -37,7 +37,11 @@ Configure
 * paste your Weather Code
 
 ```sh
-node app
+"/controls/newtab/"
+
+Change the "background.jpg" for the Background
+
+change the link in "<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=53.514967&lon=8.133128&name=Wilhelshaven%20Germany&units=si"> </iframe>" for new Weather Settings
 ```
 
 
