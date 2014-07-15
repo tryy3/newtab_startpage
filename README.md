@@ -3,6 +3,8 @@ Breach NewTab_startpage
 
 Simple Startpage
 
+![Alt text](http://i.imgur.com/zSCIbGr.png)
+
   - Favorite Links
   - Weather
   - Notepad
