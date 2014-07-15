@@ -1,0 +1,14 @@
+#note-pad {
+	   height: 100px;
+}
+#note {
+	  color: #686868;
+	  font-family:  calibri;
+	  font-size: 1em;
+}
+.clear {
+	  color: #c7c7c7;
+	  font-family:  calibri;
+	  font-size: 1em;
+	  text-decoration: none;
+}
