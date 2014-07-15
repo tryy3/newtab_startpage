@@ -1,6 +1,6 @@
 {
   "name": "mod_newtab_startpage",
-  "version": "0.2.5",
+  "version": "1.0.0",
   "main": "./index.js",
   "dependencies": {
     "breach_module": "0.3.x",
