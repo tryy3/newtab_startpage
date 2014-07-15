@@ -20,6 +20,7 @@ Version
 
 Installation
 --------------
+Note: Before you install newtab_startpage configure newtab_startpage!
 
 ```sh
 right click, click on "Configure Modules"
