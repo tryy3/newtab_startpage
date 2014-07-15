@@ -14,7 +14,7 @@ Simple Startpage
 Version
 ----
 
-0.2.5
+1.0.1
 
 
 
