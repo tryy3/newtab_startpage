@@ -1,6 +1,6 @@
 {
   "name": "mod_newtab_startpage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./index.js",
   "dependencies": {
     "breach_module": "0.3.x",
@@ -10,4 +10,4 @@
     "method-override": "1.0.x",
     "request": "2.36.x"
   }
-}
+}2
